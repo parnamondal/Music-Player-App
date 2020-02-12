@@ -9,6 +9,6 @@ It's developed with
 • JAVA 8
  Below there are some screenshoots attached for better clarity :
  
- [!PlayingTime](https://github.com/parnamondal/Music-Player-App/blob/master/images/a1.jpg)
+ ![PlayingTime](https://github.com/parnamondal/Music-Player-App/blob/master/images/a1.jpg)
  
- [!PauseandSeek](https://github.com/parnamondal/Music-Player-App/blob/master/images/a2.jpg)
+ ![PauseandSeek](https://github.com/parnamondal/Music-Player-App/blob/master/images/a2.jpg)
